@@ -1,0 +1,23 @@
+        #Our-Package{
+            padding-bottom: 40px;
+        }
+        header,footer{
+            background-color: #F2EEE2;
+        }
+       #Contactus{
+            padding-bottom: 40px;
+            padding-top: 40px;
+       }
+       #Testomonials{
+        padding-bottom: 40px;
+            padding-top: 30px;
+       }
+       #Packages{
+        padding-bottom: 40px;
+            padding-top: 30px;
+       }
+       #footer-section{
+            padding-top: 8px;
+            padding-bottom: 15px;
+       }
+         
